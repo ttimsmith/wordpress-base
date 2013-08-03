@@ -34,6 +34,19 @@ body {
 	// color: $bodyColor;
 }
 
+// TYPE SIZE VARIABLES
+
+$text-size-xs: .8em;
+$text-size-s: .9em;
+$text-size-m: 1em;
+$text-size-l: 1.5em;
+$text-size-xl: 2em;
+
+%heading-size-s { font-size: .95em;}
+%heading-size-m { font-size: 1.25em;}
+%heading-size-l { font-size: 1.5em;}
+%heading-size-xl { font-size: 2em;}
+
 
 /*
 
