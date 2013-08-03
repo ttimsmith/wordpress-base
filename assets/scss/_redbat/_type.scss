@@ -125,7 +125,7 @@ ICON FONT
 
 [data-icon]:before {
   content: attr(data-icon);
-  @include iconfont;
+  // @include iconfont;
   speak: none;
   vertical-align: top;
 }
